@@ -1,10 +1,4 @@
-<h1 align="center">Hey, I'm Max Maciag 👋</h1>
-
-<p align="center">
-  Frontend Developer • UI Enthusiast • Tech Explorer  
-  <br />
-  <a href="https://www.linkedin.com/in/max-maciag" target="_blank">Connect on LinkedIn</a>
-</p>
+![Header Image](github-header-image.png)
 
 ---
 
