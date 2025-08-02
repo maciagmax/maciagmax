@@ -4,15 +4,39 @@
 
 ### 🧑‍💻 About Me
 
-- 🎨 Passionate about **creating beautiful, accessible, and user-friendly interfaces**
-- ⚡ Skilled in **JavaScript**, **TypeScript**, **React**, **Next.js**, and modern **CSS (Tailwind, Styled Components)**
+- 🎨 Passionate about **video games, art, OH and also creating beautiful, accessible, and user-friendly interfaces**
+- ⚡ Skilled in **JavaScript**, **TypeScript**, **React**, **Next.js**
 - 🌐 Always exploring new frontend technologies and trends
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bash,redux,vite,firebase,git,figma,cs,dotnet,php,postman,pnpm,npm,nodejs,netlify,jenkins,terraform,vitest,wordpress,angular,materialui,astro" />
+
+#### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,materialui,astro,php" />
+
+#### 🧰 Dev Tools
+
+<img src="https://skillicons.dev/icons?i=git,vitest,pnpm,npm,bash,postman" />
+
+#### ☁️ Platforms & CI/CD
+
+<img src="https://skillicons.dev/icons?i=netlify,jenkins,terraform,firebase,docker" />
+
+#### 📦 Databases & Query Languages
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+#### ⚙️ Backend & Runtime
+
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs" />
+
+#### 🧩 Design & CMS
+
+<img src="https://skillicons.dev/icons?i=figma,wordpress" />
+
 </div>
 
 ---
