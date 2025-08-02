@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm Max Maciag 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Frontend+Developer;JavaScript+%7C+React+%7C+CSS+Ninja;Building+beautiful+UIs+daily;Let%E2%80%99s+code+something+awesome+!" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -27,13 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maciagmax&show_icons=true&theme=radical&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maciagmax&theme=radical&hide_border=true" height="170" />
 </div>
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/max-maciag/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ---
