@@ -3,7 +3,7 @@
 <p align="center">
   Frontend Developer • UI Enthusiast • Tech Explorer  
   <br />
-  <a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">Connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/max-maciag" target="_blank">Connect on LinkedIn</a>
 </p>
 
 ---
