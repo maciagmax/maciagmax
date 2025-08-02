@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,materialui,astro,nodejs,dotnet,cs,php,mysql,postgres,mongodb,git,docker,jenkins,terraform,firebase,vitest,pnpm,npm,bash,postman,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,materialui,astro,nodejs,dotnet,cs,php,mysql,postgres,mongodb,git,docker,netlify,jenkins,terraform,firebase,vitest,pnpm,npm,bash,postman,figma,wordpress" />
 </div>
 
 
