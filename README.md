@@ -1,5 +1,7 @@
 ![Header Image](github-header-image.png)
 
+---
+
 ### 🧑‍💻 About Me
 
 - 🎨 Passionate about **video games, art**, and crafting **beautiful, accessible, and user-friendly interfaces**
