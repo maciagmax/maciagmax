@@ -1,0 +1,20 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "gitlens.advanced.messages": {
+    "suppressCommitNotFoundWarning": true
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  }
+}
