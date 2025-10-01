@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+uninstall_flag=""
+
+# send "uninstall" argument to shell script to reverse install
+if [ "$1" = "uninstall" ]; then
+	uninstall_flag="-D"
+	brew bundle cleanup --global --force
+	./scripts/setup.sh uninstall
+else
+	brew bundle check || brew bundle install
+	./scripts/setup.sh
+fi
+
+if [[ "$OSTYPE" == "darwin"* ]]; then
+	stow "$uninstall_flag" vscode -t "$HOME/Library/Application Support/Code" --adopt
+else # assume you are on linux. because windows 🤢
+	stow "$uninstall_flag" vscode -t "$HOME/.config/Code" --adopt
+fi

@@ -19,5 +19,15 @@ plugins=(
 for plugin in "${plugins[@]}"; do
 	key="${plugin%% *}"  # Extract key (before the first space)
 	value="${plugin#* }" # Extract value (after the first space)
-	git clone --depth=1 "$value" "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/$key"
+	dir="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/$key"
+
+	if [ "$1" == "uninstall" ]; then
+		rm -rf "$dir"
+		continue
+	fi
+
+	# only install if the directory does not exist
+	if [ ! -d "$dir" ]; then
+		git clone --depth=1 "$value" "$dir"
+	fi
 done
