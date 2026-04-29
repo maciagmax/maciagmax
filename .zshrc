@@ -16,17 +16,17 @@ alias reload="source $HOME/.zshrc"
 export LANG=en_US.UTF-8 
 
 # FZF config
-source $ZSH/oh-my-zsh.sh
 source <(fzf --zsh)
 export FZF_DEFAULT_OPTS='--preview="bat --color=always {}" --layout=reverse --border'
 
 
 # ZSH Styles
 export ZSH_THEME="af-magic"
-export COMPLETION_WAITING_DOTS="%F{yellow}waiting...%f"
 export COMPLETION_WAITING_DOTS="true"
 zstyle ':completion:*' menu no
 zstyle ':completion:*:descriptions' format '[%d]'
 
 # OMZ Plugins
 plugins=( git zsh-autosuggestions zsh-npm-scripts-autocomplete fzf)
+
+source $ZSH/oh-my-zsh.sh
