@@ -18,12 +18,3 @@
 
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maciagmax&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maciagmax&theme=radical&hide_border=true" height="170" />
-</div>
-
----
