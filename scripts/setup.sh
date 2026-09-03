@@ -21,3 +21,8 @@ for plugin in "${plugins[@]}"; do
 	value="${plugin#* }" # Extract value (after the first space)
 	git clone --depth=1 "$value" "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/$key"
 done
+
+# Symlink tracked config into place. Runs last on purpose: the oh-my-zsh
+# installer above writes its own ~/.zshrc, so linking earlier would be undone.
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+bash "$SCRIPT_DIR/symlink.sh"
